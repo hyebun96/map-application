@@ -8,16 +8,16 @@
 
 <br/>
 
-### - 관리자 여행지 등록
-<img src="https://user-images.githubusercontent.com/58923654/91035066-f622e980-e640-11ea-8cbe-0de71e46a4e5.PNG" >
+### - 메뉴 기능
+![image](https://user-images.githubusercontent.com/58923654/91039598-cc20f580-e647-11ea-9b17-b4d27b00fea8.png)
 <br/>
 
-### - 여행지 추천 리스트
+### - 검색 기능
 <img src="https://user-images.githubusercontent.com/58923654/91035069-f6bb8000-e640-11ea-9e85-c876d1fc3a85.PNG" >
 <br/>
 
-## 참고사이트
-[내일로, 기차여행 커뮤니티](https://cafe.naver.com/hkct)
+## 참고
+[논문 사이트](http://www.gmoney.or.kr/)
 <br/>
 
 ## 목차
