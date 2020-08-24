@@ -17,14 +17,13 @@
 <br/>
 
 ## 참고
-[경기지역화폐](http://www.gmoney.or.kr/)
+[경기지역화폐](http://www.gmoney.or.kr/)<br/>
 [논문 사이트](https://www.data.go.kr/)
 <br/>
 
 ## 목차
 1. 기능
-2. 특징
-3. 기술사양
+2. 기술사양
 <br/>
 
 ## 1.기능
@@ -42,6 +41,6 @@
 
 </br>
 
-## 3.기술사양
+## 2.기술사양
  - DB : MYSQL
 
