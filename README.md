@@ -42,5 +42,6 @@
 </br>
 
 ## 2.기술사양
- - DB : MYSQL
+ Android Studio
+ Java
 
