@@ -1,10 +1,11 @@
 #  🗺 지역화폐 map
 
-각지의 여행 장소를 추천받고 커뮤니티에서 여행 기록을 서로 공유할 수있는 여행 가이드 홈페이지
+
 <br/>
 
 ## 구현 화면
-<img src="https://user-images.githubusercontent.com/58923654/91034721-6b41ef00-e640-11ea-8235-65c9e66a450a.gif" style="align:'center'">
+![image](https://user-images.githubusercontent.com/58923654/91039523-aeec2700-e647-11ea-92c0-de1a197919ea.png)
+
 <br/>
 
 ### - 관리자 여행지 등록
