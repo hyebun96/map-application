@@ -4,8 +4,8 @@
 <br/>
 
 ## 구현 화면
+### - 메인 화면
 ![image](https://user-images.githubusercontent.com/58923654/91039523-aeec2700-e647-11ea-92c0-de1a197919ea.png)
-
 <br/>
 
 ### - 메뉴 기능
@@ -13,7 +13,7 @@
 <br/>
 
 ### - 검색 기능
-<img src="https://user-images.githubusercontent.com/58923654/91035069-f6bb8000-e640-11ea-9e85-c876d1fc3a85.PNG" >
+![image](https://user-images.githubusercontent.com/58923654/91039675-f377c280-e647-11ea-8645-b534c75b59bb.png)
 <br/>
 
 ## 참고
