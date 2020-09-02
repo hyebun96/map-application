@@ -42,6 +42,7 @@
 </br>
 
 ## 2.기술사양
- Android Studio
- Java
+ Android Studio<br/>
+ Java<br/>
+ Google open API
 
